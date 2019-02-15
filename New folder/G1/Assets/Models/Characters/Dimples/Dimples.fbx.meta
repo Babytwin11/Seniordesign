@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: c7f0106764ee15349a4c9565526c0077
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DimplesRig:Hips
+    100004: DimplesRig:LeftArm
+    100006: DimplesRig:LeftFoot
+    100008: DimplesRig:LeftForeArm
+    100010: DimplesRig:LeftHand
+    100012: DimplesRig:LeftHandIndex1
+    100014: DimplesRig:LeftHandIndex2
+    100016: DimplesRig:LeftHandIndex3
+    100018: DimplesRig:LeftHandIndex4
+    100020: DimplesRig:LeftLeg
+    100022: DimplesRig:LeftShoulder
+    100024: DimplesRig:LeftToe_End
+    100026: DimplesRig:LeftToeBase
+    100028: DimplesRig:LeftUpLeg
+    100030: DimplesRig:Neck
+    100032: DimplesRig:RightArm
+    100034: DimplesRig:RightFoot
+    100036: DimplesRig:RightForeArm
+    100038: DimplesRig:RightHand
+    100040: DimplesRig:RightHandIndex1
+    100042: DimplesRig:RightHandIndex2
+    100044: DimplesRig:RightHandIndex3
+    100046: DimplesRig:RightHandIndex4
+    100048: DimplesRig:RightLeg
+    100050: DimplesRig:RightShoulder
+    100052: DimplesRig:RightToe_End
+    100054: DimplesRig:RightToeBase
+    100056: DimplesRig:RightUpLeg
+    100058: DimplesRig:Spine
+    100060: DimplesRig:Spine1
+    100062: DimplesRig:Spine2
+    100064: Skeleton_DimplesRig:Head
+    100066: Skeleton_DimplesRig:HeadTop_End
+    100068: Smiley
+    100070: Dimples (3)
+    400000: //RootNode
+    400002: DimplesRig:Hips
+    400004: DimplesRig:LeftArm
+    400006: DimplesRig:LeftFoot
+    400008: DimplesRig:LeftForeArm
+    400010: DimplesRig:LeftHand
+    400012: DimplesRig:LeftHandIndex1
+    400014: DimplesRig:LeftHandIndex2
+    400016: DimplesRig:LeftHandIndex3
+    400018: DimplesRig:LeftHandIndex4
+    400020: DimplesRig:LeftLeg
+    400022: DimplesRig:LeftShoulder
+    400024: DimplesRig:LeftToe_End
+    400026: DimplesRig:LeftToeBase
+    400028: DimplesRig:LeftUpLeg
+    400030: DimplesRig:Neck
+    400032: DimplesRig:RightArm
+    400034: DimplesRig:RightFoot
+    400036: DimplesRig:RightForeArm
+    400038: DimplesRig:RightHand
+    400040: DimplesRig:RightHandIndex1
+    400042: DimplesRig:RightHandIndex2
+    400044: DimplesRig:RightHandIndex3
+    400046: DimplesRig:RightHandIndex4
+    400048: DimplesRig:RightLeg
+    400050: DimplesRig:RightShoulder
+    400052: DimplesRig:RightToe_End
+    400054: DimplesRig:RightToeBase
+    400056: DimplesRig:RightUpLeg
+    400058: DimplesRig:Spine
+    400060: DimplesRig:Spine1
+    400062: DimplesRig:Spine2
+    400064: Skeleton_DimplesRig:Head
+    400066: Skeleton_DimplesRig:HeadTop_End
+    400068: Smiley
+    400070: Dimples (3)
+    4300000: Smiley
+    4300002: Dimples (3)
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Smiley
+    13700002: Dimples (3)
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dimples
+    second: {fileID: 2100000, guid: 85a12ec1c8fc85f4f894b2bb5b5b60ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: DimplesRig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton_DimplesRig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DimplesRig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Dimples(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dimples (3)
+      parentName: Dimples(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:Hips
+      parentName: Dimples(Clone)
+      position: {x: -0, y: 1.1216002, z: 0.026094293}
+      rotation: {x: -0.000000037748944, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:LeftUpLeg
+      parentName: DimplesRig:Hips
+      position: {x: -0.13799757, y: -0.08537971, z: -0.015531852}
+      rotation: {x: -0.00010795845, y: 0.0013874404, z: 0.9969855, w: 0.07757662}
+      scale: {x: 1.0000007, y: 1.000001, z: 1}
+    - name: DimplesRig:LeftLeg
+      parentName: DimplesRig:LeftUpLeg
+      position: {x: 0.0000000021077884, y: 0.44045734, z: 7.80813e-11}
+      rotation: {x: -0.054576002, y: -0.0004115117, z: 0.00752873, w: 0.99848115}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: DimplesRig:LeftFoot
+      parentName: DimplesRig:LeftLeg
+      position: {x: -9.369253e-10, y: 0.4150804, z: -8.0226525e-10}
+      rotation: {x: 0.44509155, y: -0.08558782, z: 0.042785488, w: 0.8903582}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: DimplesRig:LeftToeBase
+      parentName: DimplesRig:LeftFoot
+      position: {x: 0.0000000020663629, y: 0.27155486, z: 0.0000000029729381}
+      rotation: {x: 0.38031095, y: -0.018726664, z: 0.0077024205, w: 0.9246371}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000007}
+    - name: DimplesRig:LeftToe_End
+      parentName: DimplesRig:LeftToeBase
+      position: {x: -6.8727635e-10, y: 0.112407714, z: 1.0701012e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:RightUpLeg
+      parentName: DimplesRig:Hips
+      position: {x: 0.13799757, y: -0.08537971, z: -0.020138677}
+      rotation: {x: 0.0007388285, y: 0.009496804, z: 0.9969422, w: -0.0775596}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: DimplesRig:RightLeg
+      parentName: DimplesRig:RightUpLeg
+      position: {x: -0.000000002499806, y: 0.4405337, z: -1.4942383e-10}
+      rotation: {x: -0.065610595, y: 0.00048475002, z: -0.0073721423, w: 0.997818}
+      scale: {x: 1.0000012, y: 1.0000011, z: 1}
+    - name: DimplesRig:RightFoot
+      parentName: DimplesRig:RightLeg
+      position: {x: 0.0000000013488407, y: 0.4153401, z: -0.0000000022113578}
+      rotation: {x: 0.44247687, y: 0.08813516, z: -0.04375063, w: 0.89136547}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000001}
+    - name: DimplesRig:RightToeBase
+      parentName: DimplesRig:RightFoot
+      position: {x: 0.0000000019126576, y: 0.26833352, z: -0.000000009539286}
+      rotation: {x: 0.38569245, y: 0.018676708, z: -0.00780945, w: 0.9224053}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000001}
+    - name: DimplesRig:RightToe_End
+      parentName: DimplesRig:RightToeBase
+      position: {x: -1.7325053e-10, y: 0.11076533, z: -3.2160167e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:Spine
+      parentName: DimplesRig:Hips
+      position: {x: -0, y: 0.15324172, z: -0.0072802245}
+      rotation: {x: -0.02373399, y: -0, z: -0, w: 0.9997183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:Spine1
+      parentName: DimplesRig:Spine
+      position: {x: -0, y: 0.17898351, z: -1.656307e-10}
+      rotation: {x: -0.000000009313226, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:Spine2
+      parentName: DimplesRig:Spine1
+      position: {x: -0, y: 0.20455268, z: -3.817038e-11}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:LeftShoulder
+      parentName: DimplesRig:Spine2
+      position: {x: -0.09475597, y: 0.20270212, z: -0.0014147639}
+      rotation: {x: 0.5645508, y: -0.42577267, z: 0.5645508, w: 0.4257727}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1}
+    - name: DimplesRig:LeftArm
+      parentName: DimplesRig:LeftShoulder
+      position: {x: 0.0010094312, y: 0.20580988, z: -0.014015258}
+      rotation: {x: -0.11353792, y: -0.0011677295, z: 0.00016725063, w: 0.993533}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.99999994}
+    - name: DimplesRig:LeftForeArm
+      parentName: DimplesRig:LeftArm
+      position: {x: -0.0011164673, y: 0.49351355, z: 0.013084876}
+      rotation: {x: -0.06085135, y: 0.00088800193, z: -0.014562629, w: 0.99804026}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.000001}
+    - name: DimplesRig:LeftHand
+      parentName: DimplesRig:LeftForeArm
+      position: {x: 6.586036e-11, y: 0.4884439, z: -0.0000000011756558}
+      rotation: {x: 0.078669846, y: -0.016202351, z: -0.051927716, w: 0.9954155}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: DimplesRig:LeftHandIndex1
+      parentName: DimplesRig:LeftHand
+      position: {x: 4.124528e-11, y: 0.28152418, z: -0.0000000044874313}
+      rotation: {x: -0.09137042, y: -0.0025379844, z: 0.027649462, w: 0.9954299}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: DimplesRig:LeftHandIndex2
+      parentName: DimplesRig:LeftHandIndex1
+      position: {x: 5.640405e-10, y: 0.095172085, z: -0.0000000040079025}
+      rotation: {x: 0.0000000074505797, y: -0, z: 7.566995e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: DimplesRig:LeftHandIndex3
+      parentName: DimplesRig:LeftHandIndex2
+      position: {x: -0.0021971613, y: 0.09305334, z: -0.0050879936}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: DimplesRig:LeftHandIndex4
+      parentName: DimplesRig:LeftHandIndex3
+      position: {x: -0.0016116346, y: 0.022628931, z: 0.007349686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:Neck
+      parentName: DimplesRig:Spine2
+      position: {x: -0, y: 0.23012178, z: 0.000000007200105}
+      rotation: {x: -0.4983788, y: -0, z: -0, w: 0.8669594}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Skeleton_DimplesRig:Head
+      parentName: DimplesRig:Neck
+      position: {x: -0, y: -4.440892e-16, z: 0.14375982}
+      rotation: {x: -0.13156453, y: -0, z: -0, w: 0.9913076}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Skeleton_DimplesRig:HeadTop_End
+      parentName: Skeleton_DimplesRig:Head
+      position: {x: -0, y: 0, z: 0.12206556}
+      rotation: {x: 0.46181035, y: -0, z: -0, w: 0.8869787}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DimplesRig:RightShoulder
+      parentName: DimplesRig:Spine2
+      position: {x: 0.09475597, y: 0.2026915, z: -0.001191041}
+      rotation: {x: -0.56457585, y: -0.4257395, z: 0.56457585, w: -0.4257395}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: DimplesRig:RightArm
+      parentName: DimplesRig:RightShoulder
+      position: {x: -0.0019249339, y: 0.20583141, z: -0.013982502}
+      rotation: {x: -0.113890804, y: 0.0020388362, z: -0.0067326124, w: 0.9934684}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000006}
+    - name: DimplesRig:RightForeArm
+      parentName: DimplesRig:RightArm
+      position: {x: 0.002129122, y: 0.49367246, z: 0.013049161}
+      rotation: {x: 0.060267664, y: 0.0016461527, z: -0.027255004, w: -0.99780875}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: DimplesRig:RightHand
+      parentName: DimplesRig:RightForeArm
+      position: {x: 1.04975695e-10, y: 0.48851267, z: -0.000000001156035}
+      rotation: {x: 0.07858052, y: 0.011864204, z: 0.038818326, w: 0.99608105}
+      scale: {x: 1.0000004, y: 1.0000012, z: 1.0000005}
+    - name: DimplesRig:RightHandIndex1
+      parentName: DimplesRig:RightHand
+      position: {x: 0.0000000015237556, y: 0.26110804, z: -6.003361e-10}
+      rotation: {x: -0.07924105, y: -0.0030729605, z: 0.017932322, w: 0.99668944}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: DimplesRig:RightHandIndex2
+      parentName: DimplesRig:RightHandIndex1
+      position: {x: -7.9841933e-10, y: 0.09846495, z: -0.000000002431589}
+      rotation: {x: 0.05984233, y: 0.00000005657785, z: 0.0027108768, w: 0.9982042}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000005}
+    - name: DimplesRig:RightHandIndex3
+      parentName: DimplesRig:RightHandIndex2
+      position: {x: 0.0009803663, y: 0.10838449, z: -0.021640021}
+      rotation: {x: -0.17749198, y: 0.0017868147, z: 0.00090850104, w: 0.98412025}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: DimplesRig:RightHandIndex4
+      parentName: DimplesRig:RightHandIndex3
+      position: {x: 0.00028080298, y: 0.024976349, z: 0.0057344628}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Dimples (3)
+    rootMotionBoneRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
